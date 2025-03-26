@@ -1,6 +1,6 @@
 import utils.*;
 
-public class Benutzerprofil implements ComparableContent <Benutzerprofil> {
+public class Benutzerprofil implements ComparableContent<Benutzerprofil> {
     private String benutzername;
     private String pw;
 
@@ -65,5 +65,5 @@ public boolean isLess(Benutzerprofil pContent){
 
 
 
-}
+
 
